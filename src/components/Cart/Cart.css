@@ -1,0 +1,26 @@
+.cart{
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(231, 231, 231);
+    margin: 15px;
+    padding: 15px;
+    border-radius: 5px;
+    position: fixed;
+    
+}
+.detail {
+    display: inline;
+    align-items: center;
+}
+.total-cost{
+    font-weight: 500;
+ 
+}
+
+.offer{
+    background-color: #1bbfb8;
+    border-radius: 15px 50px;
+    color: white;
+    padding: 6px;
+
+}

@@ -1,0 +1,17 @@
+.single-info{
+    text-align: center;
+    border: 1px solid rgb(180, 180, 180);
+    padding-bottom: 5px;
+    margin:20px;
+   
+}
+
+.product-field{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+   
+}
+.icon-color{
+    color: gold;
+    margin-bottom: 15px;
+}

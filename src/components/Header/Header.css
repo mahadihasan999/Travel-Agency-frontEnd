@@ -1,0 +1,24 @@
+.logo{
+    color: #1bbfb8;
+    font-size: 25px;
+    font-weight: 600;
+    padding-left: 30px
+    
+}
+.text{
+color: black;
+text-decoration: none;
+font-size: 25px;
+margin: 5px;
+
+}
+.navbar{
+    background-color: rgb(231, 231, 231);
+}
+.search-field{
+    padding-right: 30px;
+}
+.btn{
+background-color: #1bbfb8;
+color: white;
+}
